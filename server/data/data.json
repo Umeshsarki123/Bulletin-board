@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1767447020001,
+    "title": "Exam Schedule",
+    "description": "Mid-semester exams start from 15th March"
+  },
+  {
+    "id": 1767447020002,
+    "title": "Holiday Notice",
+    "description": "College will remain closed on 8th March due to public holiday"
+  },
+  {
+    "id": 1767447020003,
+    "title": "Assignment Submission",
+    "description": "Final year project report submission deadline is 20th March"
+  },
+  {
+    "id": 1767447020004,
+    "title": "Cultural Fest",
+    "description": "Annual cultural fest will be held on 25th and 26th March"
+  },
+  {
+    "id": 1767447020005,
+    "title": "Library Update",
+    "description": "Library will remain open till 8 PM during exam week"
+  }
+]

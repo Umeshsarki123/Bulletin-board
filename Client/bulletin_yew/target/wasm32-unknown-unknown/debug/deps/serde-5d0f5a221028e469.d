@@ -1,0 +1,14 @@
+/home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/deps/serde-5d0f5a221028e469.d: /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/build/serde-dfdb02c2d21ec6ea/out/private.rs
+
+/home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/deps/libserde-5d0f5a221028e469.rlib: /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/build/serde-dfdb02c2d21ec6ea/out/private.rs
+
+/home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/deps/libserde-5d0f5a221028e469.rmeta: /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/build/serde-dfdb02c2d21ec6ea/out/private.rs
+
+/home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/umesh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/build/serde-dfdb02c2d21ec6ea/out/private.rs:
+
+# env-dep:OUT_DIR=/home/umesh/Desktop/PM-task/Client/bulletin_yew/target/wasm32-unknown-unknown/debug/build/serde-dfdb02c2d21ec6ea/out
